@@ -34,13 +34,11 @@ Plot of predicted vs true values:
 
 ![image](https://user-images.githubusercontent.com/72087263/188224774-9381a4d0-8f3d-4891-b743-f8cfbc08c83e.png)
 
-To see if the model could be improved, a secon regression was run with five fold cross validation. This resulted in a marginally improve R2 of 0.014
+To see if the model could be improved, a second regression was run with five fold cross validation. This resulted in a marginally improve R2 of 0.014
 
 Plot of cross validated predicted vs true values:
 
 ![image](https://user-images.githubusercontent.com/72087263/188225019-b143be2a-044a-4814-b24c-47588aaccbca.png)
-
-To see if the model could be improved, a secon regression was run with five fold cross validation. This resulted in a marginally improve R2 of 0.014
 
 ## Conclusion
 
